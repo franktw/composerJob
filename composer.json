@@ -1,0 +1,16 @@
+{
+    "name": "chuanzhang/composer-job",
+    "description": "hello my world",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^1.20"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "船长",
+            "email": "chuanzhang@yiran.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
